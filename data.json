@@ -1,6 +1,101 @@
 [
   {
     "name":"Bangamukhi Mo:Mo: Center",
-    "latlong":[27.666607323866703, 85.32378864185269]
+    "latlong":[27.666607323866703, 85.32378864185269],
+    "taste": "Dami",
+    "clean": "Khoi",
+    "ind_momos":[
+      {
+        "name":"Buff Mo:Mo:", 
+        "rating":"Dami"
+      } 
+    ],
+    "veg":false,
+    "pork":false,
+    "chicken":false,
+    "buff":false,
+    "halal":false,
+    "paneer":false
+  },
+  {
+    "name":"Chaudhary Dai ko Pasal",
+    "latlong":[27.678906058929023, 85.34226627339874],
+    "taste": "Dami",
+    "clean": "Thikai",
+    "ind_momos":[
+      {
+        "name":"Chicken Mo:Mo:", 
+        "rating":"Dami"
+      },{
+        "name":"Buff Mo:Mo:", 
+        "rating":"Thikai"
+      },{
+        "name":"Veg Mo:Mo:",
+        "rating":"Thikai"
+      }
+    ],
+    "veg":true,
+    "pork":false,
+    "chicken":true,
+    "buff":true,
+    "halal":false,
+    "paneer":false
+  },{
+    "name":"Zomsa Corner",
+    "latlong":[27.6672461858588, 85.30976941742844],
+    "taste": "Dami",
+    "clean": "Thikai",
+    "ind_momos":[
+      {
+        "name":"Buff Thulo Mo:Mo:", 
+        "rating":"Dami"
+      }
+    ],
+    "veg":false,
+    "pork":false,
+    "chicken":false,
+    "buff":true,
+    "halal":false,
+    "paneer":false
+  },{
+    "name":"Mokto Darjeeling Mo:Mo",
+    "latlong":[27.667555463361108, 85.30937135283864],
+    "taste": "Dami",
+    "clean": "Thikai",
+    "ind_momos":[
+      {
+        "name":"Buff Mo:Mo:", 
+        "rating":"Dami"
+      },{
+        "name":"Chicken Mo:Mo:", 
+        "rating":"Dami"
+      },{
+        "name":"Veg. Mo:Mo:", 
+        "rating":"Thikai"
+      },{
+        "name":"Pork Mo:Mo:",
+        "rating":"Dami"
+      }.{
+        "name":"Buff Da Pao", 
+        "rating":"Dami"
+      },{
+        "name":"Chicken Buff Da Pao", 
+        "rating":"Dami"
+      },{
+        "name":"Veg. Buff Da Pao", 
+        "rating":"Thikai"
+      },{
+        "name":"Pork Buff Da Pao",
+        "rating":"Dami"
+      }
+        
+    ],
+    "veg":true,
+    "pork":true,
+    "chicken":true,
+    "buff":true,
+    "halal":false,
+    "paneer":false
   }
+  
 ]
