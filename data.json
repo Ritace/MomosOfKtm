@@ -96,6 +96,49 @@
     "buff":true,
     "halal":false,
     "paneer":false
+  },{
+    "name":"Rai Dai Ko Chat Pasal",
+    "latlong":[27.65514533640233, 85.31911034781452],
+    "taste": "Dami",
+    "clean": "Thikai",
+    "ind_momos":[
+      {
+        "name":"Buff Mo:Mo:", 
+        "rating":"Dami"
+      },{
+        "name":"Chicken Mo:Mo:", 
+        "rating":"Thikai"
+      },{
+        "name":"Veg. Mo:Mo:", 
+        "rating":"Thikai"
+      },{
+        "name":"Pork Mo:Mo:",
+        "rating":"Dami"
+      }        
+    ],
+    "veg":true,
+    "pork":true,
+    "chicken":true,
+    "buff":true,
+    "halal":false,
+    "paneer":false
+  },{
+    "name":"Ganesh Sweets House",
+    "latlong":[27.666225479271265, 85.3331184638915],
+    "taste": "Dami",
+    "clean": "Clean",
+    "ind_momos":[
+      {
+        "name":"Veg. Mo:Mo:", 
+        "rating":"Dami"
+      }   
+    ],
+    "veg":true,
+    "pork":false,
+    "chicken":false,
+    "buff":false,
+    "halal":false,
+    "paneer":false
   }
   
 ]
