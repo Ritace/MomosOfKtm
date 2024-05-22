@@ -139,6 +139,44 @@
     "buff":false,
     "halal":false,
     "paneer":false
+  },{
+    "name":"Mystic Momos",
+    "latlong":[27.65207084118125, 85.31834307020536],
+    "taste": "Dami",
+    "clean": "Clean",
+    "ind_momos":[
+      {
+        "name":"Buff Mo:Mo:", 
+        "rating":"Dami"
+      },{
+        "name":"Chicken Mo:Mo:", 
+        "rating":"Dami"
+      },{
+        "name":"Veg. Mo:Mo:", 
+        "rating":"Dami"
+      },{
+        "name":"Pork Mo:Mo:",
+        "rating":"Dami"
+      },    {
+        "name":"Buff Jhol Mo:Mo:", 
+        "rating":"Dami"
+      },{
+        "name":"Chicken Jhol Mo:Mo:", 
+        "rating":"Dami"
+      },{
+        "name":"Veg. Jhol Mo:Mo:", 
+        "rating":"Dami"
+      },{
+        "name":"Pork Jhol Mo:Mo:",
+        "rating":"Dami"
+      }
+    ],
+    "veg":true,
+    "pork":false,
+    "chicken":false,
+    "buff":false,
+    "halal":false,
+    "paneer":false
   }
   
 ]
