@@ -13,7 +13,7 @@
     "veg":false,
     "pork":false,
     "chicken":false,
-    "buff":false,
+    "buff":true,
     "halal":false,
     "paneer":false
   },
